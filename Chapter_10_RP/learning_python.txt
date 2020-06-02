@@ -1,0 +1,3 @@
+In Python you can read a file line by line.
+In Python you can convert a string to a number with int() or float().
+In Python you can remove blanks lines and spaces with strip() method.
